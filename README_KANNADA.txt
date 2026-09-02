@@ -1,27 +1,27 @@
-3FS CLIENT WEBSITE — MIXED FINAL TRIAL
+3FS CLIENT WEBSITE — FINAL MIXED FIXED VERSION
 
-This package combines the 20-page visual client website with the calendar, language, AI assistant and database bridge.
+ಈ ZIP ನಲ್ಲಿ 20 HTML pages, 3FS logo, ಮೊದಲ ಪುಟದ Ganesha photo, AI assistant,
+language options, client project date/calendar, payment transaction records,
+ಮತ್ತು team-only edit option ಇದೆ.
 
-Files are intentionally kept at the repository root so you can upload/replace matching files without needing to delete the old repository first.
+Team 1:
+Dhanush, Amulya, Aditya, Ranjitha
 
-20 pages:
-01-home.html through 20-thank-you.html
+Team 2:
+Gagan, Tejas, Koushik, Chinmayee, Geetha
 
-Assets:
-3fs-logo.jpg = 3FS logo
-ganesha-photo.jpg = Ganesha image (shown on Home page only)
+Clients:
+- enquiry ಮತ್ತು project date submit ಮಾಡಬಹುದು
+- client team details/edit ಮಾಡಲಾಗುವುದಿಲ್ಲ
+- payment transaction record team side ಗೆ save ಆಗುತ್ತದೆ
 
-Features:
-- Team 1 / Team 2 information
-- Client enquiry and project-date calendar
-- Payment transaction recording (trial/local mode unless Supabase credentials are configured)
-- Client status page
-- Language selector
-- 3FS AI Assistant
-- Responsive mobile/laptop design
+Team edit:
+Team page → Team Edit → code: 3FS-TEAM-EDIT
 
-IMPORTANT: database.js currently has blank Supabase URL/anon key. Add your existing Supabase project values there to enable real Supabase storage/realtime. Do not expose a service-role key in frontend files.
+Supabase:
+ಈ build trial mode ನಲ್ಲಿ local browser storage ಕೂಡ ಕೆಲಸ ಮಾಡುತ್ತದೆ.
+Shared live Supabase data ಬೇಕಾದರೆ database.js / window.THREEFS_DB ನಲ್ಲಿ
+ನಿಮ್ಮ Supabase project URL ಮತ್ತು anon key ಹಾಕಬೇಕು. ನಾನು ಯಾವುದೇ key ಊಹಿಸಿಲ್ಲ.
 
-For GitHub Pages trial: upload/replace the files in this ZIP at repository root. The new index.html is the client website entry point.
-
-Kannada: ಹಳೆಯ files delete ಮಾಡಬೇಕಾಗಿಲ್ಲ. ಈ ZIP‌ನ matching files ಅನ್ನು repository root ಗೆ upload ಮಾಡಿ; index.html ಮತ್ತು styles/app/database files replace ಆಗುತ್ತವೆ.
+GitHub Pages:
+ಎಲ್ಲಾ files ಅನ್ನು repository root ಗೆ upload ಮಾಡಿ. index.html open page ಆಗುತ್ತದೆ.

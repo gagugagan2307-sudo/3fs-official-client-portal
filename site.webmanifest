@@ -1,1 +1,8 @@
-{"name":"3FS Creative Studio","short_name":"3FS","start_url":"./","display":"standalone","background_color":"#06071a","theme_color":"#08051b","icons":[]}
+{
+  "name": "3FS Creative Studio",
+  "short_name": "3FS",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#070914",
+  "theme_color": "#8a45ff"
+}

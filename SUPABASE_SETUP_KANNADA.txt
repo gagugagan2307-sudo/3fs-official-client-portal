@@ -1,0 +1,32 @@
+3FS CLIENT WEBSITE – FINAL TRIAL PACKAGE
+
+ಈ ZIP ನಲ್ಲಿ 20 HTML pages, styles, scripts ಮತ್ತು assets folder ಇವೆ.
+
+Assets:
+- assets/3fs-logo.jpg
+- assets/ganesha-photo.jpg
+
+Ganesha photo ಅನ್ನು Home / Page 01 ನಲ್ಲಿ ಮಾತ್ರ ದೊಡ್ಡ hero image ಆಗಿ ಬಳಸಲಾಗಿದೆ.
+Header logo ಎಲ್ಲಾ pages ನಲ್ಲಿ ಇದೆ.
+
+Team 1:
+Dhanush, Amulya, Aditya, Ranjitha
+
+Team 2:
+Gagan, Tejas, Koushik, Chinmayee, Geetha
+
+Client permissions:
+Clients can submit enquiries, choose a preferred project date, and view project status.
+Team edit area is protected by the trial team edit code; clients are not given team-edit access.
+
+Database:
+Trial mode works immediately using browser storage.
+For shared real-time Supabase data, database.js must contain the Supabase project URL and anon key.
+Do NOT put a service-role key in the website.
+
+Payment:
+The payment page records transaction details in the local trial record and can post to Supabase when configured.
+No real payment is charged by the demo button.
+
+AI:
+The floating 3FS AI assistant is specific to 3FS services, pricing, enquiries, dates, payments, team workflow and client status.
